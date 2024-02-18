@@ -38,6 +38,14 @@
     height: calc(100vh + 78px);
     margin-top: -78px;
 }
+.pkp2{
+    background-image:url("images/2.jpg") ;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: 100% 100vh;
+        
+}
 .tnt{
     text-decoration: none;
     font-size: 27px;
