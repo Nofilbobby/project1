@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.bnb{
+    background-color: #1D1D1F  !important;
+}
+
+.hub2{
+    height: 48px !important;
+    display: flex !important;
+    justify-content: space-around !important;
+    width: 100% !important;
+    align-items: center !important;
+    z-index:  3 !important;
+}
+.huh{
+    justify-content: center !important;
+    width: max-content !important;
+}
+.jnj{
+    font-size: 13px;
+    font-weight: 100;
+    margin-left: 20px;
+}
+.ghg{
+ padding-top: 30px;
+    font-size: 55px;
+    font-weight: 900;
+    color: white;
+    padding-top: 200px;
+    word-spacing: -8px;
+}
+.pkp{
+    background-image:url("images/hero_iphone15pro__i70z9oz3hj2i_medium.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: calc(100vh + 78px);
+    margin-top: -78px;
+}
+.tnt{
+    text-decoration: none;
+    font-size: 27px;
+    padding-left: 30px;
+}
